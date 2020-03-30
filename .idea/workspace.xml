@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\githubMolo\devpython\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WN4WXOMdBlkNIng0XYSrqwgNNv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\githubMolo\devpython\study" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\githubMolo\devpython\ktoasocket" />
+      <recent name="D:\githubMolo\devpython\socket" />
+      <recent name="D:\githubMolo\devpython" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.echo_client">
+    <configuration name="echo_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ktoasocket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ktoasocket/echo_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="echo_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ktoasocket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ktoasocket/echo_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image-client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webcamsocket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webcamsocket/image-client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image-server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webcamsocket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webcamsocket/image-server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.echo_client" />
+        <item itemvalue="Python.echo_server" />
+        <item itemvalue="Python.image-client" />
+        <item itemvalue="Python.image-server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="" />
+      <created>1578976750894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578976750894</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st">
+      <created>1585565597091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585565597091</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="1st" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1007" y="332" key="#Inspections" timestamp="1585544486634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1007" y="332" key="#Inspections/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585544486634" />
+    <state x="436" y="133" key="#Notifications" timestamp="1585565014066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="436" y="133" key="#Notifications/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565014066" />
+    <state x="736" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584325527848">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1584325527848" />
+    <state x="1192" y="364" key="#echo_client" timestamp="1585208527947">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1192" y="364" key="#echo_client/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585208527947" />
+    <state x="507" y="70" key="CommitChangelistDialog2" timestamp="1585565567212">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="507" y="70" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565567212" />
+    <state x="624" y="216" key="FileChooserDialogImpl" timestamp="1585565131387">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="624" y="216" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565131387" />
+    <state x="646" y="657" width="354" height="170" key="Github.CreateGistDialog" timestamp="1585564521114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="646" y="657" width="354" height="170" key="Github.CreateGistDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585564521114" />
+    <state width="1404" height="392" key="GridCell.Tab.0.bottom" timestamp="1585565258953">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1584086298138" />
+    <state width="1404" height="392" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565258953" />
+    <state width="1404" height="392" key="GridCell.Tab.0.center" timestamp="1585565258953">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1584086298138" />
+    <state width="1404" height="392" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565258953" />
+    <state width="1404" height="392" key="GridCell.Tab.0.left" timestamp="1585565258952">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1584086298138" />
+    <state width="1404" height="392" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565258952" />
+    <state width="1404" height="392" key="GridCell.Tab.0.right" timestamp="1585565258953">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1584086298138" />
+    <state width="1404" height="392" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565258953" />
+    <state x="347" y="117" key="SettingsEditor" timestamp="1585565202791">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="347" y="117" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565202791" />
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2" timestamp="1585565938431">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565938431" />
+    <state x="694" y="208" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1585565465882">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="694" y="208" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565465882" />
+    <state x="649" y="390" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585564999911">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="649" y="390" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585564999911" />
+    <state x="1427" y="450" width="672" height="678" key="search.everywhere.popup" timestamp="1584088715823">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1427" y="450" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1584088715823" />
+  </component>
+</project>

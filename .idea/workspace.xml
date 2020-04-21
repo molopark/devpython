@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +254,28 @@
       <option name="project" value="LOCAL" />
       <updated>1587455338385</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="public">
+      <created>1587456090718</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587456090718</updated>
+    </task>
+    <task id="LOCAL-00011" summary="public">
+      <created>1587456217883</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587456217883</updated>
+    </task>
+    <task id="LOCAL-00012" summary="public">
+      <created>1587456283765</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587456283765</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -304,18 +324,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1192" y="364" key="#echo_client/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585208527947" />
-    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587456217368">
+    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587456324281">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456217368" />
+    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456324281" />
     <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1587456209918">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="329" y="423" width="1336" height="629" key="DiffContextDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456209918" />
-    <state x="624" y="216" key="FileChooserDialogImpl" timestamp="1585565131387">
+    <state x="624" y="216" key="FileChooserDialogImpl" timestamp="1587456355396">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="624" y="216" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565131387" />
+    <state x="624" y="216" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456355396" />
     <state x="646" y="657" width="354" height="170" key="Github.CreateGistDialog" timestamp="1585564521114">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -368,10 +388,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="649" y="390" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585568235966" />
-    <state x="564" y="271" key="git4idea.merge.GitPullDialog" timestamp="1587456036330">
+    <state x="564" y="271" key="git4idea.merge.GitPullDialog" timestamp="1587456419002">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="564" y="271" key="git4idea.merge.GitPullDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456036330" />
+    <state x="564" y="271" key="git4idea.merge.GitPullDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456419002" />
     <state x="1427" y="450" width="672" height="678" key="search.everywhere.popup" timestamp="1584088715823">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

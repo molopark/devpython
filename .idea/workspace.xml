@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/parsing-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/parsing.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/notebook/rss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/webcrawling.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/study/test_parsing.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/DateTime-4.3.dist-info/DESCRIPTION.rst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/DateTime-4.3.dist-info/INSTALLER" afterDir="false" />
@@ -7715,7 +7718,7 @@
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/zope/interface/verify.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/exam.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/exam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/webcrawling-checkpoint.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -7953,7 +7956,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587029156002</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="public">
+      <created>1587455170009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587455170009</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -8002,10 +8012,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1192" y="364" key="#echo_client/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585208527947" />
-    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587029126363">
+    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587455307284">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587029126363" />
+    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587455307284" />
     <state x="624" y="216" key="FileChooserDialogImpl" timestamp="1585565131387">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

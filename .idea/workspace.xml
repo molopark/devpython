@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/publicData-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/rss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/test_parsing.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/DateTime-4.3.dist-info/DESCRIPTION.rst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/DateTime-4.3.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/DateTime-4.3.dist-info/METADATA" afterDir="false" />
@@ -7712,9 +7713,9 @@
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/zope/interface/tests/test_sorting.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/zope/interface/tests/test_verify.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/zope/interface/verify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/exam.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -7764,7 +7765,7 @@
       <recent name="D:\githubMolo\devpython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.publicData-weather">
+  <component name="RunManager" selected="Python.test_parsing">
     <configuration name="echo_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="devpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -7828,27 +7829,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="image-server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="devpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webcamsocket" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webcamsocket/image-server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="publicData-weather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="devpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -7870,13 +7850,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_parsing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/test_parsing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_parsing" />
         <item itemvalue="Python.publicData-weather" />
         <item itemvalue="Python.echo_client" />
         <item itemvalue="Python.echo_server" />
         <item itemvalue="Python.image-client" />
-        <item itemvalue="Python.image-server" />
       </list>
     </recent_temporary>
   </component>
@@ -7938,7 +7939,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586860956947</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="public">
+      <created>1587029042117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587029042117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="public">
+      <created>1587029156002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587029156002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -7987,10 +8002,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1192" y="364" key="#echo_client/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585208527947" />
-    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587029011478">
+    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587029126363">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587029011478" />
+    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587029126363" />
     <state x="624" y="216" key="FileChooserDialogImpl" timestamp="1585565131387">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -7999,26 +8014,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="646" y="657" width="354" height="170" key="Github.CreateGistDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585564521114" />
-    <state width="1404" height="382" key="GridCell.Tab.0.bottom" timestamp="1586861052164">
+    <state width="1502" height="390" key="GridCell.Tab.0.bottom" timestamp="1587366110410">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1404" height="382" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1586861052164" />
-    <state width="1404" height="382" key="GridCell.Tab.0.center" timestamp="1586861052163">
+    <state width="1502" height="390" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587366110410" />
+    <state width="1502" height="390" key="GridCell.Tab.0.center" timestamp="1587366110410">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1404" height="382" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1586861052163" />
-    <state width="1404" height="382" key="GridCell.Tab.0.left" timestamp="1586861052163">
+    <state width="1502" height="390" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587366110410" />
+    <state width="1502" height="390" key="GridCell.Tab.0.left" timestamp="1587366110410">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1404" height="382" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1586861052163" />
-    <state width="1404" height="382" key="GridCell.Tab.0.right" timestamp="1586861052164">
+    <state width="1502" height="390" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587366110410" />
+    <state width="1502" height="390" key="GridCell.Tab.0.right" timestamp="1587366110410">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1404" height="382" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1586861052164" />
+    <state width="1502" height="390" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587366110410" />
     <state x="347" y="117" key="SettingsEditor" timestamp="1585565202791">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

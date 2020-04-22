@@ -2,8 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/devpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/devpython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/parsing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/parsing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/parsing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/parsing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/iptest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/iptest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/iptest3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/iptest3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/ipython.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/ipython.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/ipython3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/ipython3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jlpm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jlpm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jsonschema.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jsonschema.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-bundlerextension.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-bundlerextension.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-kernel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-kernel.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-kernelspec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-kernelspec.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-lab.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-lab.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-labextension.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-labextension.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-migrate.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-migrate.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-nbconvert.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-nbconvert.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-nbextension.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-nbextension.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-notebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-notebook.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-run.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-run.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-serverextension.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-serverextension.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-troubleshoot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-troubleshoot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter-trust.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter-trust.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/jupyter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jupyter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pygmentize.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pygmentize.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyjson5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyjson5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/application-extension/main.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/application-extension/main.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/application-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/application-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/apputils-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/apputils-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/codemirror-extension/commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/codemirror-extension/commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/codemirror-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/codemirror-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/completer-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/completer-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/console-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/console-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/console-extension/tracker.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/console-extension/tracker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/docmanager-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/docmanager-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/docmanager-extension/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/docmanager-extension/plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/documentsearch-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/documentsearch-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/extensionmanager-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/extensionmanager-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/extensionmanager-extension/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/extensionmanager-extension/plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/filebrowser-extension/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/filebrowser-extension/browser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/filebrowser-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/filebrowser-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/fileeditor-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/fileeditor-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/fileeditor-extension/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/fileeditor-extension/plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/imageviewer-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/imageviewer-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/inspector-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/inspector-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/launcher-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/launcher-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/logconsole-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/logconsole-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/logconsole-extension/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/logconsole-extension/plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/mainmenu-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/mainmenu-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/markdownviewer-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/markdownviewer-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/markdownviewer-extension/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/markdownviewer-extension/plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/notebook-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/notebook-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/notebook-extension/tracker.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/notebook-extension/tracker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/settingeditor-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/settingeditor-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/shortcuts-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/shortcuts-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/shortcuts-extension/shortcuts.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/shortcuts-extension/shortcuts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/statusbar-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/statusbar-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/statusbar-extension/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/statusbar-extension/plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/terminal-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/terminal-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/terminal-extension/plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/terminal-extension/plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/tooltip-extension/files.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/tooltip-extension/files.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/tooltip-extension/package.json.orig" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/schemas/@jupyterlab/tooltip-extension/package.json.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/static/imports.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/static/imports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/static/index.out.js" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/static/index.out.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/static/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/themes/@jupyterlab/theme-dark-extension/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/themes/@jupyterlab/theme-dark-extension/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/jupyter/lab/themes/@jupyterlab/theme-light-extension/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/themes/@jupyterlab/theme-light-extension/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +93,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="D:\githubMolo\devpython\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1WN4WXOMdBlkNIng0XYSrqwgNNv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -40,7 +104,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,7 +117,28 @@
       <recent name="D:\githubMolo\devpython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_parsing">
+  <component name="RunManager" selected="Python.easy_install">
+    <configuration name="easy_install" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/easy_install.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="echo_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="devpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,27 +173,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ktoasocket/echo_server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="image-client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="devpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webcamsocket" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webcamsocket/image-client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,25 +225,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.easy_install" />
         <item itemvalue="Python.test_parsing" />
         <item itemvalue="Python.publicData-weather" />
         <item itemvalue="Python.echo_client" />
         <item itemvalue="Python.echo_server" />
-        <item itemvalue="Python.image-client" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -290,7 +342,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587514340287</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="public">
+      <created>1587514831378</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587514831378</updated>
+    </task>
+    <task id="LOCAL-00016" summary="public">
+      <created>1587515022028</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587515022028</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -308,13 +374,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -339,10 +404,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1192" y="364" key="#echo_client/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585208527947" />
-    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587514830870">
+    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587515021521">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514830870" />
+    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587515021521" />
     <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1587514505376">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -355,26 +420,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="646" y="657" width="354" height="170" key="Github.CreateGistDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585564521114" />
-    <state width="1502" height="390" key="GridCell.Tab.0.bottom" timestamp="1587455499611">
+    <state width="750" height="389" key="GridCell.Tab.0.bottom" timestamp="1587520831833">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1502" height="390" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587455499611" />
-    <state width="1502" height="390" key="GridCell.Tab.0.center" timestamp="1587455499611">
+    <state width="750" height="389" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587520831833" />
+    <state width="750" height="389" key="GridCell.Tab.0.center" timestamp="1587520831833">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1502" height="390" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587455499611" />
-    <state width="1502" height="390" key="GridCell.Tab.0.left" timestamp="1587455499611">
+    <state width="750" height="389" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587520831833" />
+    <state width="750" height="389" key="GridCell.Tab.0.left" timestamp="1587520831833">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1502" height="390" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587455499611" />
-    <state width="1502" height="390" key="GridCell.Tab.0.right" timestamp="1587455499611">
+    <state width="750" height="389" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587520831833" />
+    <state width="750" height="389" key="GridCell.Tab.0.right" timestamp="1587520831833">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1502" height="390" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587455499611" />
+    <state width="750" height="389" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587520831833" />
     <state x="0" y="160" key="MergeDialog" timestamp="1587455487497">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -383,14 +448,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="709" y="454" key="MultipleFileMergeDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587455487507" />
-    <state x="347" y="117" key="SettingsEditor" timestamp="1585565202791">
+    <state x="532" y="191" key="SettingsEditor" timestamp="1587522202496">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="347" y="117" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565202791" />
-    <state x="435" y="206" key="Vcs.Push.Dialog.v2" timestamp="1587514847988">
+    <state x="532" y="191" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587522202496" />
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2" timestamp="1587515033051">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="435" y="206" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514847988" />
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587515033051" />
     <state x="974" y="380" key="VcsDiffUtil.ChangesDialog" timestamp="1587514313759">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

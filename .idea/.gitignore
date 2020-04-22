@@ -5,3 +5,5 @@
 *.pyc
 
 venv/LIB
+.ipynb_checkpoints
+notebook/.ipynb_checkpoints

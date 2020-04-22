@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/parsing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/parsing-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/parsing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/parsing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587456436139</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="public">
+      <created>1587514340287</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587514340287</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -333,14 +339,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1192" y="364" key="#echo_client/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585208527947" />
-    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587456435621">
+    <state x="692" y="147" key="CommitChangelistDialog2" timestamp="1587514339799">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456435621" />
-    <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1587514322595">
+    <state x="692" y="147" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514339799" />
+    <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1587514505376">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="329" y="423" width="1336" height="629" key="DiffContextDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514322595" />
+    <state x="329" y="423" width="1336" height="629" key="DiffContextDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514505376" />
     <state x="624" y="216" key="FileChooserDialogImpl" timestamp="1587456355396">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -381,14 +387,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="347" y="117" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585565202791" />
-    <state x="435" y="206" key="Vcs.Push.Dialog.v2" timestamp="1587456488817">
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2" timestamp="1587514403509">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="435" y="206" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587456488817" />
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514403509" />
     <state x="974" y="380" key="VcsDiffUtil.ChangesDialog" timestamp="1587514313759">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="974" y="380" key="VcsDiffUtil.ChangesDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514313759" />
+    <state x="362" y="311" width="1336" height="629" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587514764083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="362" y="311" width="1336" height="629" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514764083" />
     <state x="694" y="208" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1585565465882">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

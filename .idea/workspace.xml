@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/f2py.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/f2py.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/file처리-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/file처리-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/webcrawling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/webcrawling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/file처리.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/file처리.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/webcrawling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/webcrawling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/writetext.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +37,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -297,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587541520257</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="public">
+      <created>1587553339607</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587553339607</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -345,10 +358,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1192" y="364" key="#echo_client/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585208527947" />
-    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1587541519627">
+    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1587553339023">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587541519627" />
+    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587553339023" />
     <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1587514505376">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -389,14 +402,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="709" y="454" key="MultipleFileMergeDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587455487507" />
-    <state x="640" y="352" key="SettingsEditor" timestamp="1587541250736">
+    <state x="1157" y="505" key="SettingsEditor" timestamp="1587553472834">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="640" y="352" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587541250736" />
-    <state x="435" y="206" key="Vcs.Push.Dialog.v2" timestamp="1587541656053">
+    <state x="1157" y="505" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587553472834" />
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2" timestamp="1587553345018">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="435" y="206" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587541656053" />
+    <state x="435" y="206" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587553345018" />
     <state x="974" y="380" key="VcsDiffUtil.ChangesDialog" timestamp="1587514313759">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

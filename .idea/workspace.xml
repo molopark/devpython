@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="public">
-      <change afterPath="$PROJECT_DIR$/exam/molotest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/plotDraw-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/webselenium-checkpoint.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/IPython/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/IPython/__main__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/IPython/config.py" afterDir="false" />
@@ -9136,9 +9133,8 @@
       <change afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/static/main.3422632f2feaa921b99a.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/static/vendors~main.f392ea3b46b9d3f336a6.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/share/jupyter/lab/static/vendors~main.f392ea3b46b9d3f336a6.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/plotDraw.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/plotDraw.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9462,7 +9458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588064891091</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="public">
+      <created>1588927474593</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1588927474593</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -9514,10 +9517,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="911" y="427" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588055294745" />
-    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1588927214784">
+    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1588928035677">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588927214784" />
+    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588928035677" />
     <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1587514505376">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -9562,14 +9565,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1157" y="505" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588055272520" />
-    <state x="760" y="278" key="Vcs.Push.Dialog.v2" timestamp="1588927317807">
+    <state x="760" y="278" key="Vcs.Push.Dialog.v2" timestamp="1588927499087">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="760" y="278" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588927317807" />
-    <state x="974" y="380" key="VcsDiffUtil.ChangesDialog" timestamp="1587514313759">
+    <state x="760" y="278" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588927499087" />
+    <state x="974" y="380" key="VcsDiffUtil.ChangesDialog" timestamp="1588927645409">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="974" y="380" key="VcsDiffUtil.ChangesDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514313759" />
+    <state x="974" y="380" key="VcsDiffUtil.ChangesDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588927645409" />
     <state x="362" y="311" width="1336" height="629" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587514764083">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

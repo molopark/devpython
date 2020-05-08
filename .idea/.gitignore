@@ -1,9 +1,8 @@
 # Default ignored files
 # update
-/workspace.xml
+workspace.xml
 *.log
 *.pyc
 
 venv/LIB
 .ipynb_checkpoints
-notebook/.ipynb_checkpoints

@@ -5,3 +5,4 @@ import selenium
 import openpyxl
 import matplotlib
 import pandas
+import numpy

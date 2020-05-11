@@ -6,3 +6,4 @@ import openpyxl
 import matplotlib
 import pandas
 import numpy
+import PIL

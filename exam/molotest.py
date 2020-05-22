@@ -1,5 +1,5 @@
-import pandas as pd
-import numpy as np
+import urllib.request as ul
 
-data = np.random.rand(2,3,4)
-print(data)
+url = 'http://test-scis.skylife.co.kr/scis/ec'
+request = ul.Request(url)
+response = ul.urlopen(request)

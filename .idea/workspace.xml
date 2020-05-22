@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
+    <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="public">
+      <change afterPath="$PROJECT_DIR$/study/blockchain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exam/exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exam/molotest.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/molotest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/plotDraw-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/plotDraw-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/plotDraw.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/plotDraw.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/sqlite3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/sqlite3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/sqlite3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/sqlite3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,28 @@
       <recent name="D:\githubMolo\devpython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.molotest">
+  <component name="RunManager" selected="Python.blockchain">
+    <configuration name="blockchain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/blockchain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="easy_install" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="devpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,27 +85,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/easy_install.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="echo_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="devpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ktoasocket" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ktoasocket/echo_client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.blockchain" />
         <item itemvalue="Python.molotest" />
         <item itemvalue="Python.easy_install" />
         <item itemvalue="Python.test_parsing" />
         <item itemvalue="Python.publicData-weather" />
-        <item itemvalue="Python.echo_client" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588928443135</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="public">
+      <created>1589185170929</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1589185170930</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -403,10 +411,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="911" y="427" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588055294745" />
-    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1588928425202">
+    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1590126566544">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588928425202" />
+    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590126566544" />
     <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1587514505376">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -419,26 +427,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="646" y="657" width="354" height="170" key="Github.CreateGistDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585564521114" />
-    <state width="1500" height="389" key="GridCell.Tab.0.bottom" timestamp="1588928262839">
+    <state width="1500" height="110" key="GridCell.Tab.0.bottom" timestamp="1590126289302">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="389" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588928262839" />
-    <state width="1500" height="389" key="GridCell.Tab.0.center" timestamp="1588928262839">
+    <state width="1500" height="110" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590126289302" />
+    <state width="1500" height="110" key="GridCell.Tab.0.center" timestamp="1590126289302">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="389" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588928262839" />
-    <state width="1500" height="389" key="GridCell.Tab.0.left" timestamp="1588928262839">
+    <state width="1500" height="110" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590126289302" />
+    <state width="1500" height="110" key="GridCell.Tab.0.left" timestamp="1590126289302">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="389" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588928262839" />
-    <state width="1500" height="389" key="GridCell.Tab.0.right" timestamp="1588928262839">
+    <state width="1500" height="110" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590126289302" />
+    <state width="1500" height="110" key="GridCell.Tab.0.right" timestamp="1590126289302">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="389" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588928262839" />
+    <state width="1500" height="110" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590126289302" />
     <state x="0" y="160" key="MergeDialog" timestamp="1587455487497">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -451,10 +459,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1157" y="505" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588055272520" />
-    <state x="824" y="315" key="Vcs.Push.Dialog.v2" timestamp="1588928643011">
+    <state x="824" y="315" key="Vcs.Push.Dialog.v2" timestamp="1589185282717">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="824" y="315" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588928643011" />
+    <state x="824" y="315" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1589185282717" />
     <state x="974" y="380" key="VcsDiffUtil.ChangesDialog" timestamp="1588927645409">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -475,9 +483,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="564" y="271" key="git4idea.merge.GitPullDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1587514181506" />
-    <state x="1427" y="450" width="672" height="678" key="search.everywhere.popup" timestamp="1584088715823">
+    <state x="1427" y="450" width="672" height="678" key="search.everywhere.popup" timestamp="1590124425513">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1427" y="450" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1584088715823" />
+    <state x="1427" y="450" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590124425513" />
   </component>
 </project>

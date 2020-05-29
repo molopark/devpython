@@ -178,6 +178,7 @@ class Blockchain:
 
         guess = f'{last_proof}{proof}{last_hash}'.encode()
         guess_hash = hashlib.sha256(guess).hexdigest()
+        # print("proof:{}, guess:{}, guess_hash:{}".format(proof, guess, guess_hash))
         return guess_hash[:4] == "0000"
 
 

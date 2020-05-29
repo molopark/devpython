@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="public">
+    <list default="true" id="86e6acc0-75dc-4b1b-a566-34416c876b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pygamepang/pypang.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/blockchain.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/blockchain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
       <recent name="D:\githubMolo\devpython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.blockchain">
+  <component name="RunManager" selected="Python.pypang">
     <configuration name="blockchain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="devpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="publicData-weather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pypang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="devpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygamepang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/publicData-weather.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygamepang/pypang.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pypang" />
         <item itemvalue="Python.blockchain" />
         <item itemvalue="Python.molotest" />
         <item itemvalue="Python.easy_install" />
         <item itemvalue="Python.test_parsing" />
-        <item itemvalue="Python.publicData-weather" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589185170930</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="public">
+      <created>1590403142085</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1590403142085</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -406,10 +415,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="911" y="427" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1588055294745" />
-    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1590390779121">
+    <state x="805" y="131" key="CommitChangelistDialog2" timestamp="1590403141468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590390779121" />
+    <state x="805" y="131" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590403141468" />
     <state x="329" y="423" width="1336" height="629" key="DiffContextDialog" timestamp="1590128298875">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -422,26 +431,42 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="646" y="657" width="354" height="170" key="Github.CreateGistDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585564521114" />
-    <state width="1500" height="110" key="GridCell.Tab.0.bottom" timestamp="1590392154234">
+    <state width="1500" height="681" key="GridCell.Tab.0.bottom" timestamp="1590731174909">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="110" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590392154234" />
-    <state width="1500" height="110" key="GridCell.Tab.0.center" timestamp="1590392154234">
+    <state width="1500" height="681" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174909" />
+    <state width="1500" height="681" key="GridCell.Tab.0.center" timestamp="1590731174909">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="110" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590392154234" />
-    <state width="1500" height="110" key="GridCell.Tab.0.left" timestamp="1590392154233">
+    <state width="1500" height="681" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174909" />
+    <state width="1500" height="681" key="GridCell.Tab.0.left" timestamp="1590731174909">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="110" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590392154233" />
-    <state width="1500" height="110" key="GridCell.Tab.0.right" timestamp="1590392154234">
+    <state width="1500" height="681" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174909" />
+    <state width="1500" height="681" key="GridCell.Tab.0.right" timestamp="1590731174909">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1404" height="393" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@-1920.0.1536.816" timestamp="1585913035989" />
-    <state width="1500" height="110" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590392154234" />
+    <state width="1500" height="681" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174909" />
+    <state width="1500" height="681" key="GridCell.Tab.1.bottom" timestamp="1590731174910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1500" height="681" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174910" />
+    <state width="1500" height="681" key="GridCell.Tab.1.center" timestamp="1590731174910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1500" height="681" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174910" />
+    <state width="1500" height="681" key="GridCell.Tab.1.left" timestamp="1590731174910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1500" height="681" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174910" />
+    <state width="1500" height="681" key="GridCell.Tab.1.right" timestamp="1590731174910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1500" height="681" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590731174910" />
     <state x="0" y="160" key="MergeDialog" timestamp="1587455487497">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -454,10 +479,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="990" y="377" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590130375061" />
-    <state x="824" y="315" key="Vcs.Push.Dialog.v2" timestamp="1589185282717">
+    <state x="824" y="315" key="Vcs.Push.Dialog.v2" timestamp="1590403194957">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="824" y="315" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1589185282717" />
+    <state x="824" y="315" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590403194957" />
     <state x="974" y="380" key="VcsDiffUtil.ChangesDialog" timestamp="1590128313068">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -474,6 +499,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="649" y="390" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1585568235966" />
+    <state x="1286" y="260" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590403735622">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1286" y="260" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1590403735622" />
     <state x="1013" y="280" width="587" height="584" key="find.popup" timestamp="1590128109849">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

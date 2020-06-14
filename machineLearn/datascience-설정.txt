@@ -1,0 +1,15 @@
+
+#타이타닉 솔루션
+https://www.kaggle.com/c/titanic
+
+
+
+
+====================================================================
+
+pkg 설치
+
+
+pip install jupyter
+
+pip install numpy pandas sklearn matplotlib seaborn

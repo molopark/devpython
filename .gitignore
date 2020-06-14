@@ -5,4 +5,5 @@ workspace.xml
 *.pyc
 
 venv
+.idea
 .ipynb_checkpoints

@@ -1,0 +1,8 @@
+# Default ignored files
+# update
+workspace.xml
+*.log
+*.pyc
+
+venv
+.ipynb_checkpoints

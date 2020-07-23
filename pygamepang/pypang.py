@@ -33,13 +33,22 @@ character_size = character.get_rect().size
 character_width = character_size[0]
 character_height = character_size[1]
 character_x_pos = (screen_width / 2) - (character_width / 2)
-character_y_pos = screen_height - character_height - screen_height
+character_y_pos = screen_height - character_height - stage_height
 
 # 캐릭터이동방향
 character_to_x = 0
 
 # 캐릭터이동속도
 character_speed = 5
+
+# 무기만들기
+weapon = pygame.image.load(os.path.join(image_path, "weapon.png"))
+weapon_size = weapon.get_rect().size
+weapon_width = weapon_size[0]
+
+# 무기발사
+weapons = []
+weapon_speed = 10
 
 running = True
 while running:
@@ -56,7 +65,9 @@ while running:
             elif event.key == pygame.K_RIGHT:
                 character_to_x += character_speed
             elif event.key == pygame.K_SPACE:
-                pass
+                weapon_x_pos = character_x_pos + (character_width / 2) - (weapon_width / 2)
+                weapon_y_pos = character_y_pos
+                weapons.append([weapon_x_pos, weapon_y_pos])
 
         if event.type == pygame.KEYUP:
             if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
@@ -71,12 +82,21 @@ while running:
     elif character_x_pos > screen_width - character_width:
         character_x_pos = screen_width - character_width
 
+    # print("character_x_pos:{} , character_y_pos:{}".format(character_x_pos, character_y_pos))
+
+    # 무기위치
+    weapons = [[w[0], w[1] - weapon_speed] for w in weapons]
+    weapons = [[w[0], w[1]] for w in weapons if w[1] > 0]
+
     # 4. 충돌처리
 
     # 5. 화면그리기
     screeen.blit(background, (0,0))
     screeen.blit(stage, (0, screen_height - stage_height))
     screeen.blit(character, (character_x_pos, character_y_pos))
+
+    for weapon_x_pos, weapon_y_pos in weapons:
+        screeen.blit(weapon, (weapon_x_pos, weapon_y_pos))
 
     pygame.display.update()
 

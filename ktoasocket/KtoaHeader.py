@@ -1,4 +1,4 @@
-from ktoasocket.echo_util import calcDate
+from echo_util import calcDate
 
 class KtoaHeader:
     headLength = ''

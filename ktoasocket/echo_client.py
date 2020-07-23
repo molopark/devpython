@@ -1,6 +1,6 @@
 from datetime import datetime
 from socket import *
-from ktoasocket.echo_util import calcDate, calcAccptNum
+from echo_util import calcDate, calcAccptNum
 
 now = datetime.now()
 

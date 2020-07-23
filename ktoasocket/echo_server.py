@@ -1,8 +1,8 @@
 import time
 from socket import *
 from threading import Thread
-from ktoasocket.KtoaHeader import KtoaHeader
-from ktoasocket.echo_util import calcDate
+import KtoaHeader
+from echo_util import calcDate
 
 
 def echo_handler(conn, addr, terminator='bye'):
